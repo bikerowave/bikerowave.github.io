@@ -1,0 +1,7 @@
+Mirror in progress since Tue, 09 May 2017 15:20:31 .. please wait!
+winhttrack https://bikerowave.org/ -O "/Users/alexanderlazar/websites/brw" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=13203
+UID=503
+GID=503
+START=1494368431

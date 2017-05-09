@@ -1,0 +1,82 @@
+HTTrack3.49-1 launched on Tue, 09 May 2017 15:20:31 at https://bikerowave.org/
+(winhttrack https://bikerowave.org/ -O "/Users/alexanderlazar/websites/brw" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:20:39	Error: 	"Method Not Allowed" (405) at link https://bikerowave.org/xmlrpc.php (from https://bikerowave.org/)
+15:20:40	Error: 	"Not Found" (404) at link https://bikerowave.org/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/)
+15:23:21	Error: 	"Not Found" (404) at link https://bikerowave.org/about/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/about/)
+15:23:26	Warning: 	Found for https://bikerowave.org/about/?share=facebook
+15:23:26	Warning: 	File has moved from https://bikerowave.org/about/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fabout%2F&t=About
+15:23:29	Warning: 	Found for https://bikerowave.org/about/?share=twitter
+15:23:29	Warning: 	File has moved from https://bikerowave.org/about/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=About&url=https%3A%2F%2Fbikerowave.org%2Fabout%2F
+15:24:03	Warning: 	Found for https://bikerowave.org/about/?share=reddit
+15:24:03	Warning: 	File has moved from https://bikerowave.org/about/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Fbikerowave.org%2Fabout%2F&title=About
+15:24:05	Warning: 	Found for https://bikerowave.org/about/?share=google-plus-1
+15:24:05	Warning: 	File has moved from https://bikerowave.org/about/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fbikerowave.org%2Fabout%2F
+15:24:08	Warning: 	Found for https://bikerowave.org/about/?share=email
+15:24:08	Warning: 	File has moved from https://bikerowave.org/about/?share=email to https://bikerowave.org/about/?shared=email&msg=fail
+15:24:11	Error: 	"Not Found" (404) at link https://bikerowave.org/contact-us/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/contact-us/)
+15:24:12	Warning: 	Found for https://bikerowave.org/contact-us/?share=facebook
+15:24:12	Warning: 	File has moved from https://bikerowave.org/contact-us/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fcontact-us%2F&t=Contact%20Us
+15:24:13	Warning: 	Found for https://bikerowave.org/contact-us/?share=twitter
+15:24:13	Warning: 	File has moved from https://bikerowave.org/contact-us/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=Contact%20Us&url=https%3A%2F%2Fbikerowave.org%2Fcontact-us%2F
+15:24:14	Warning: 	Found for https://bikerowave.org/contact-us/?share=reddit
+15:24:14	Warning: 	File has moved from https://bikerowave.org/contact-us/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Fbikerowave.org%2Fcontact-us%2F&title=Contact%20Us
+15:25:07	Warning: 	Found for https://bikerowave.org/contact-us/?share=google-plus-1
+15:25:07	Warning: 	File has moved from https://bikerowave.org/contact-us/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fbikerowave.org%2Fcontact-us%2F
+15:25:08	Warning: 	Found for https://bikerowave.org/contact-us/?share=email
+15:25:08	Warning: 	File has moved from https://bikerowave.org/contact-us/?share=email to https://bikerowave.org/contact-us/?shared=email&msg=fail
+15:25:08	Error: 	"Not Found" (404) at link https://bikerowave.org/the-board/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/the-board/)
+15:25:10	Warning: 	Found for https://bikerowave.org/the-board/?share=facebook
+15:25:10	Warning: 	File has moved from https://bikerowave.org/the-board/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fthe-board%2F&t=The%20Board
+15:25:11	Warning: 	Found for https://bikerowave.org/the-board/?share=twitter
+15:25:11	Warning: 	File has moved from https://bikerowave.org/the-board/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=The%20Board&url=https%3A%2F%2Fbikerowave.org%2Fthe-board%2F
+15:25:57	Warning: 	Found for https://bikerowave.org/the-board/?share=reddit
+15:25:57	Warning: 	File has moved from https://bikerowave.org/the-board/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Fbikerowave.org%2Fthe-board%2F&title=The%20Board
+15:25:59	Warning: 	Found for https://bikerowave.org/the-board/?share=google-plus-1
+15:25:59	Warning: 	File has moved from https://bikerowave.org/the-board/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fbikerowave.org%2Fthe-board%2F
+15:26:04	Warning: 	Found for https://bikerowave.org/the-board/?share=email
+15:26:04	Warning: 	File has moved from https://bikerowave.org/the-board/?share=email to https://bikerowave.org/the-board/?shared=email&msg=fail
+15:26:06	Error: 	"Not Found" (404) at link https://bikerowave.org/hours-rates-location/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/hours-rates-location/)
+15:26:54	Warning: 	Found for https://bikerowave.org/hours-rates-location/?share=facebook
+15:26:54	Warning: 	File has moved from https://bikerowave.org/hours-rates-location/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fhours-rates-location%2F&t=Hours%20%26%20Rates
+15:27:31	Warning: 	Found for https://bikerowave.org/hours-rates-location/?share=twitter
+15:27:31	Warning: 	File has moved from https://bikerowave.org/hours-rates-location/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=Hours%20%26%20Rates&url=https%3A%2F%2Fbikerowave.org%2Fhours-rates-location%2F
+15:27:33	Warning: 	Found for https://bikerowave.org/hours-rates-location/?share=reddit
+15:27:33	Warning: 	File has moved from https://bikerowave.org/hours-rates-location/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Fbikerowave.org%2Fhours-rates-location%2F&title=Hours%20%26%20Rates
+15:27:34	Warning: 	Found for https://bikerowave.org/hours-rates-location/?share=google-plus-1
+15:27:34	Warning: 	File has moved from https://bikerowave.org/hours-rates-location/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fbikerowave.org%2Fhours-rates-location%2F
+15:27:35	Warning: 	Found for https://bikerowave.org/hours-rates-location/?share=email
+15:27:35	Warning: 	File has moved from https://bikerowave.org/hours-rates-location/?share=email to https://bikerowave.org/hours-rates-location/?shared=email&msg=fail
+15:27:38	Error: 	"Not Found" (404) at link https://bikerowave.org/volunteering/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/volunteering/)
+15:28:20	Warning: 	Found for https://bikerowave.org/volunteering/?share=facebook
+15:28:20	Warning: 	File has moved from https://bikerowave.org/volunteering/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fvolunteering%2F&t=Get%20Involved
+15:28:22	Warning: 	Found for https://bikerowave.org/volunteering/?share=twitter
+15:28:22	Warning: 	File has moved from https://bikerowave.org/volunteering/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=Get%20Involved&url=https%3A%2F%2Fbikerowave.org%2Fvolunteering%2F
+15:28:24	Warning: 	Found for https://bikerowave.org/volunteering/?share=reddit
+15:28:24	Warning: 	File has moved from https://bikerowave.org/volunteering/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Fbikerowave.org%2Fvolunteering%2F&title=Get%20Involved
+15:28:24	Warning: 	Found for https://bikerowave.org/volunteering/?share=google-plus-1
+15:28:24	Warning: 	File has moved from https://bikerowave.org/volunteering/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fbikerowave.org%2Fvolunteering%2F
+15:28:25	Warning: 	Found for https://bikerowave.org/volunteering/?share=email
+15:28:25	Warning: 	File has moved from https://bikerowave.org/volunteering/?share=email to https://bikerowave.org/volunteering/?shared=email&msg=fail
+15:29:03	Error: 	"Not Found" (404) at link https://bikerowave.org/contributions/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/contributions/)
+15:29:11	Error: 	"Not Found" (404) at link https://bikerowave.org/contributions/info@bikerowave.org (from https://bikerowave.org/contributions/)
+15:29:12	Warning: 	Found for https://bikerowave.org/contributions/?share=facebook
+15:29:12	Warning: 	File has moved from https://bikerowave.org/contributions/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fcontributions%2F&t=Contributions
+15:29:14	Warning: 	Found for https://bikerowave.org/contributions/?share=twitter
+15:29:14	Warning: 	File has moved from https://bikerowave.org/contributions/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=Contributions&url=https%3A%2F%2Fbikerowave.org%2Fcontributions%2F
+15:29:15	Warning: 	Found for https://bikerowave.org/contributions/?share=reddit
+15:29:15	Warning: 	File has moved from https://bikerowave.org/contributions/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2Fbikerowave.org%2Fcontributions%2F&title=Contributions
+15:29:49	Warning: 	Found for https://bikerowave.org/contributions/?share=google-plus-1
+15:29:49	Warning: 	File has moved from https://bikerowave.org/contributions/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2Fbikerowave.org%2Fcontributions%2F
+15:29:55	Warning: 	Found for https://bikerowave.org/contributions/?share=email
+15:29:55	Warning: 	File has moved from https://bikerowave.org/contributions/?share=email to https://bikerowave.org/contributions/?shared=email&msg=fail
+15:30:02	Error: 	"Not Found" (404) at link https://bikerowave.org/bylaws/wordpress_test_cookie=test; path=/ (from https://bikerowave.org/bylaws/)
+15:30:08	Warning: 	Found for https://bikerowave.org/bylaws/?share=facebook
+15:30:08	Warning: 	File has moved from https://bikerowave.org/bylaws/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbikerowave.org%2Fbylaws%2F&t=Bylaws
+15:30:10	Warning: 	Found for https://bikerowave.org/bylaws/?share=twitter
+15:30:10	Warning: 	File has moved from https://bikerowave.org/bylaws/?share=twitter to https://twitter.com/intent/tweet?via=bikerowave&related=wordpressdotcom&text=Bylaws&url=https%3A%2F%2Fbikerowave.org%2Fbylaws%2F
